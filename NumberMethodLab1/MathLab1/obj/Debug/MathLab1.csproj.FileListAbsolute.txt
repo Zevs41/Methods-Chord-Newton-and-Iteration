@@ -1,0 +1,8 @@
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\bin\Debug\MathLab1.exe.config
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\bin\Debug\MathLab1.exe
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\bin\Debug\MathLab1.pdb
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\obj\Debug\MathLab1.csproj.AssemblyReference.cache
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\obj\Debug\MathLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\obj\Debug\MathLab1.csproj.CoreCompileInputs.cache
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\obj\Debug\MathLab1.exe
+C:\Users\zeus2\source\repos\MathLab1\MathLab1\obj\Debug\MathLab1.pdb
